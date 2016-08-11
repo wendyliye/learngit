@@ -6,4 +6,6 @@ Git tracks changes.
 Creating a new branch is quick AND simple.
 =======
 Creating a new branch is quick AND simple.
->>>>>>> feature1
+>>>>>>> feature1i
+
+1233
