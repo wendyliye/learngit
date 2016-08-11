@@ -9,3 +9,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1i
 
 1233
+git is a free software...
